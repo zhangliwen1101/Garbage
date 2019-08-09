@@ -8,9 +8,9 @@
     <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/01.png' style='max-width:100px!important;width:100px!important;'>
     <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/02.png' style='style='max-width:100px!important;width:100px!important;'>
     <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/03.png' style='style='max-width:100px!important;width:100px!important;'>
-    <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/04.png' style='style='max-width:100px!important;width:100px!important;'>
-    <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/05.png' style='style='max-width:100px!important;width:100px!important;'>
-    <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/06.png' style='style='max-width:100px!important;width:100px!important;'>
+    <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/04.jpg' style='style='max-width:100px!important;width:100px!important;'>
+    <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/05.jpg' style='style='max-width:100px!important;width:100px!important;'>
+    <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/06.jpg' style='style='max-width:100px!important;width:100px!important;'>
 </div>
 
 ---
@@ -36,7 +36,8 @@
 ![标准垃圾分类](https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/erweima01.jpg)
 ## 其他小程序
 ![婚礼邀请函love](https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/marry/自制婚礼请柬1.jpg)
-[QQ AI地址](https://github.com/zhangliwen1101/wedding)
+
+[源码](https://github.com/zhangliwen1101/wedding)
 
 ## 打赏
 码砖不易，如果您需要，随意打赏，从零开始搭建此项目，直到发版 ->后期运营~
