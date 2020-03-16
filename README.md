@@ -16,13 +16,10 @@
 </div>
 ---
 
----
-数据库截图：
- <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/tiyan.jpg' style='style='max-width:100px!important;width:100px!important;'>
-
-需要完整版可以联系我：
- <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/wanz.jpg' style='style='max-width:100px!important;width:100px!important;'>
----
+## 部分数据库截图（product.csv）
+![数据库体验版截图](https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/tiyan.jpg)
+## 完整数据库截图
+![数据库完整版截图](https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/wanz.jpg)
     
 
 云函数，云数据库：
@@ -49,7 +46,7 @@
 
 [源码](https://github.com/zhangliwen1101/wedding)
 
-## 打赏
+## 打赏（需要完整版数据的可以联系我）
 码砖不易，如果您需要，随意打赏，从零开始搭建此项目，直到发版 ->后期运营~
 > * QQ: 383755537
 > * WX: bjawenfd
