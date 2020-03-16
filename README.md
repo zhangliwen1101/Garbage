@@ -24,6 +24,8 @@
 
 云函数，云数据库：
 - 数据库：存储四种垃圾分类的相关垃圾数据， 创建表commit,sort，product。把sort.json 和product.csv 导入云数据库即可（需要完整数据的可以通过下面的联系方式，联系我）
+> * QQ: 383755537
+> * WX: bjawenfd
 - 云函数：获取百度识别库的accessToken
 [百度AI识别库地址](http://ai.baidu.com/docs#/ImageClassify-API/ebc492b1)
 [QQ AI地址](https://ai.qq.com/)
