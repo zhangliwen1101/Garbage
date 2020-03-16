@@ -20,6 +20,9 @@
 <div >
 ## 部分数据库截图（product.csv）
      <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/tiyan.jpg' style='style='max-width:100px!important;width:100px!important;'>
+     </div>
+     
+     <div >
 ## 完整数据库截图
     <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/wanz.jpg' style='style='max-width:100px!important;width:100px!important;'>
 </div>
