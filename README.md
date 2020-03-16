@@ -16,11 +16,14 @@
 </div>
 ---
 
+---
+<div >
 ## 部分数据库截图（product.csv）
-![数据库体验版截图](https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/tiyan.jpg)
+     <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/tiyan.jpg' style='style='max-width:100px!important;width:100px!important;'>
 ## 完整数据库截图
-![数据库完整版截图](https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/wanz.jpg)
-    
+    <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/wanz.jpg' style='style='max-width:100px!important;width:100px!important;'>
+</div>
+---
 
 云函数，云数据库：
 - 数据库：存储四种垃圾分类的相关垃圾数据， 创建表commit,sort，product。把sort.json 和product.csv 导入云数据库即可
