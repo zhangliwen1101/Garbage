@@ -5,22 +5,22 @@
 ---
 ## 截图
 <div >
-    <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/07.jpg' style='max-width:100px!important;width:100px!important;'>
-    <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/02.png' style='style='max-width:100px!important;width:100px!important;'>
-    <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/03.png' style='style='max-width:100px!important;width:100px!important;'>
-    <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/04.png' style='style='max-width:100px!important;width:100px!important;'>
-    <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/05.jpg' style='style='max-width:100px!important;width:100px!important;'>
-    <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/06.jpg' style='style='max-width:100px!important;width:100px!important;'>
-    <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/09.jpg' style='style='max-width:100px!important;width:100px!important;'>
-    <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/10.jpg' style='style='max-width:100px!important;width:100px!important;'>
+    <img src='https://gitee.com/lwzhang1101/images/raw/master/img/garbage/07.jpg' style='max-width:100px!important;width:100px!important;'>
+    <img src='https://gitee.com/lwzhang1101/images/raw/master/img/garbage/02.png' style='style='max-width:100px!important;width:100px!important;'>
+    <img src='https://gitee.com/lwzhang1101/images/raw/master/img/garbage/03.png' style='style='max-width:100px!important;width:100px!important;'>
+    <img src='https://gitee.com/lwzhang1101/images/raw/master/img/garbage/04.png' style='style='max-width:100px!important;width:100px!important;'>
+    <img src='https://gitee.com/lwzhang1101/images/raw/master/img/garbage/05.jpg' style='style='max-width:100px!important;width:100px!important;'>
+    <img src='https://gitee.com/lwzhang1101/images/raw/master/img/garbage/06.jpg' style='style='max-width:100px!important;width:100px!important;'>
+    <img src='https://gitee.com/lwzhang1101/images/raw/master/img/garbage/09.jpg' style='style='max-width:100px!important;width:100px!important;'>
+    <img src='https://gitee.com/lwzhang1101/images/raw/master/img/garbage/10.jpg' style='style='max-width:100px!important;width:100px!important;'>
 </div>
 ---
 
 
 ## 部分数据库截图（product.csv）
-![部分数据库截图](https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/tiyan.jpg)
+![部分数据库截图](https://gitee.com/lwzhang1101/images/raw/master/img/garbage/tiyan.jpg)
 ## 完整数据库截图
-![完整数据库截图](https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/wanz.jpg)
+![完整数据库截图](https://gitee.com/lwzhang1101/images/raw/master/img/garbage/wanz.jpg)
 
 云函数，云数据库：
 - 数据库：存储四种垃圾分类的相关垃圾数据， 创建表commit,sort，product。把sort.json 和product.csv 导入云数据库即可（需要完整数据的可以通过下面的联系方式，联系我）
@@ -42,9 +42,9 @@
 4. 没有创建数据库名称
 
 ## 直接扫码体验
-![标准垃圾分类](https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/erweima01.jpg)
+![标准垃圾分类](https://gitee.com/lwzhang1101/images/raw/master/img/garbage/erweima01.jpg)
 ## 其他小程序
-![婚礼邀请函love](https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/marry/自制婚礼请柬1.jpg)
+![婚礼邀请函love](https://gitee.com/lwzhang1101/images/raw/master/img/marry/自制婚礼请柬1.jpg)
 
 [源码](https://github.com/zhangliwen1101/wedding)
 
@@ -55,11 +55,11 @@
 
 ### 支付宝
 
-<img src="https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/zhifubaoshou.png" width="300" /> <img src="https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/zhifubaohong.png" width="300" />
+<img src="https://gitee.com/lwzhang1101/images/raw/master/img/zhifubaoshou.png" width="300" /> <img src="https://gitee.com/lwzhang1101/images/raw/master/img/zhifubaohong.png" width="300" />
 
 ### 微信
 
-<img src="https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/weixinshou.png" width="300" />
+<img src="https://gitee.com/lwzhang1101/images/raw/master/img/weixinshou.png" width="300" />
 
 ## License
 
