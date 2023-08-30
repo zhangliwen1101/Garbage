@@ -5,7 +5,7 @@
 ---
 ## 截图
 <div >
-    <img src='https://gitee.com/lwzhang1101/images/raw/master/img/garbage/07.jpg' style='max-width:100px!important;width:100px!important;'>
+    <img src='https://gitee.com/lwzhang1101/images/raw/master/img/garbage/07.jpg' style='style='max-width:100px!important;width:100px!important;'>
     <img src='https://gitee.com/lwzhang1101/images/raw/master/img/garbage/02.png' style='style='max-width:100px!important;width:100px!important;'>
     <img src='https://gitee.com/lwzhang1101/images/raw/master/img/garbage/03.png' style='style='max-width:100px!important;width:100px!important;'>
     <img src='https://gitee.com/lwzhang1101/images/raw/master/img/garbage/04.png' style='style='max-width:100px!important;width:100px!important;'>
@@ -60,6 +60,10 @@
 ### 微信
 
 <img src="https://gitee.com/lwzhang1101/images/raw/master/img/weixinshou.png" width="300" />
+
+### 扫码关注，私信，拿完整源码：
+
+<img src="https://gitee.com/lwzhang1101/images/raw/master/img/manongyuanqu.jpg" width="300" />
 
 ## License
 
